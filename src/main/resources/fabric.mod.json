@@ -14,7 +14,7 @@
   },
 
   "license": "GPLv3",
-  "icon": "assets/survival-debug-stick/icon.png",
+  "icon": "assets/survival_debug_stick/icon.png",
 
   "environment": "*",
   "entrypoints": {

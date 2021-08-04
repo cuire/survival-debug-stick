@@ -27,7 +27,7 @@ public class SurvivalDebugStick implements ModInitializer
     @Override
     public void onInitialize()
     {
-        // The way this event gets called is really really odd and worries me a bit
+        // The way this event gets called is really, really odd and worries me a bit
         // If anyone has a better way to slow down the left click action of the stick
         // PLEASE PR it :)
         AttackBlockCallback.EVENT.register((player, world, hand, pos, direction) -> {
