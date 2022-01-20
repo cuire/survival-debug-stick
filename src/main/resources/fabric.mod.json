@@ -24,5 +24,11 @@
   },
   "mixins": [
     "survival-debug-stick.mixins.json"
-  ]
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  }
 }
